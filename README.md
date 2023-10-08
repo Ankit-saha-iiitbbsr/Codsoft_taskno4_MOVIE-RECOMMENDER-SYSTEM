@@ -6,3 +6,5 @@ Movie Recommender system using Machine Learning Algorithm.
   1. npm i
   2. npm run build
 - This will create the node_modules folder.
+- Open 'app.py' in terminal and type: streamlit run app.py
+- This is launch the streamlit app in the browser.
