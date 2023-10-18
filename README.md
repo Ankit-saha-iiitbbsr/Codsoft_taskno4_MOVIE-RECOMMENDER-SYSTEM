@@ -8,3 +8,5 @@ Movie Recommender system using Machine Learning Algorithm.
 - This will create the node_modules folder.
 - Open 'app.py' in terminal and type: streamlit run app.py
 - This will launch the streamlit app in the browser.
+
+## Main repository: https://github.com/Ankit-saha-iiitbbsr/CODSOFT
